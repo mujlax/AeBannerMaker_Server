@@ -24,7 +24,7 @@
         "folderKey": "",
         "folderLabel": "Banners"
       },
-      "missing": true
+      "missing": false
     },
     {
       "id": "adaptive_mp71889d_z3rx87",
@@ -81,24 +81,60 @@
     },
     {
       "id": "adaptive_mp73ik7u_ojvxvf",
-      "role": "adaptive",
       "x": 276,
       "y": 456,
       "label": "Adaptive 4",
+      "role": "adaptive",
       "adaptiveMode": "widthFluid",
       "fluidWidth": 300,
       "fluidHeight": 250,
       "connectedFrameIds": [],
       "connectedFrameSettings": {}
+    },
+    {
+      "id": "adaptive_mp73o3h7_d9bg07",
+      "role": "adaptive",
+      "x": 184,
+      "y": 148,
+      "label": "Adaptive 5",
+      "adaptiveMode": "widthFluid",
+      "fluidWidth": 300,
+      "fluidHeight": 250,
+      "connectedFrameIds": [],
+      "connectedFrameSettings": {}
+    },
+    {
+      "id": "firmware_mp73o690_dvmbis",
+      "role": "firmware",
+      "x": 600,
+      "y": 204,
+      "label": "Firmware 2",
+      "connectedFrameIds": [],
+      "profileId": null
     }
   ],
-  "selectedFrameId": "adaptive_mp73ik7u_ojvxvf",
-  "updatedAt": "2026-05-15T15:52:17.850Z",
+  "selectedFrameId": "firmware_mp73o690_dvmbis",
+  "updatedAt": "2026-05-15T15:56:39.826Z",
   "sync": {
     "projectId": "ae_banner_maer-e3a23a51",
-    "version": "2026.05.15-185237",
-    "sha": "766ba1a6b9736e55b9c2fec6e364a34f3c08e17d",
+    "version": "2026.05.15-185703",
+    "sha": "234e78c7709a3f018c9fb819fe8e7fc45c6e0815",
     "history": [
+      {
+        "version": "2026.05.15-185703",
+        "action": "push",
+        "at": "2026-05-15T15:57:03.089Z",
+        "sha": "234e78c7709a3f018c9fb819fe8e7fc45c6e0815",
+        "message": "Pushed to GitHub"
+      },
+      {
+        "version": "2026.05.15-185237",
+        "action": "pull",
+        "at": "2026-05-15T15:56:28.160Z",
+        "sha": "234e78c7709a3f018c9fb819fe8e7fc45c6e0815",
+        "author": "denis",
+        "message": "Pulled by denis"
+      },
       {
         "version": "2026.05.15-185237",
         "action": "push",
