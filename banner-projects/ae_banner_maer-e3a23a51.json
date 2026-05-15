@@ -4,7 +4,7 @@
     "schemaVersion": 1,
     "projectPath": "/Users/deniszablincev/Downloads/temp2222/temp_preoject.aep",
     "projectName": "temp_preoject",
-    "lastOpenedAt": "2026-05-15T18:49:55.315Z"
+    "lastOpenedAt": "2026-05-15T18:50:17.006Z"
   },
   "frames": [
     {
@@ -90,15 +90,61 @@
       "fluidHeight": 250,
       "connectedFrameIds": [],
       "connectedFrameSettings": {}
+    },
+    {
+      "id": "adaptive_mp79w0uk_s2hgqb",
+      "role": "adaptive",
+      "x": 184,
+      "y": 148,
+      "label": "Adaptive 5",
+      "adaptiveMode": "widthFluid",
+      "fluidWidth": 300,
+      "fluidHeight": 250,
+      "connectedFrameIds": [],
+      "connectedFrameSettings": {}
+    },
+    {
+      "id": "adaptive_mp79w1nq_gnbf4d",
+      "role": "adaptive",
+      "x": 208,
+      "y": 166,
+      "label": "Adaptive 6",
+      "adaptiveMode": "widthFluid",
+      "fluidWidth": 300,
+      "fluidHeight": 250,
+      "connectedFrameIds": [],
+      "connectedFrameSettings": {}
     }
   ],
-  "selectedFrameId": "adaptive_mp73ik7u_ojvxvf",
-  "updatedAt": "2026-05-15T18:49:55.412Z",
+  "selectedFrameId": "adaptive_mp79w1nq_gnbf4d",
+  "updatedAt": "2026-05-15T18:50:43.431Z",
   "sync": {
     "projectId": "ae_banner_maer-e3a23a51",
-    "version": "2026.05.15-215006",
-    "sha": "24aebf6fd5fa6e9c225766deb5c4377e5d0d8a70",
+    "version": "2026.05.15-215207",
+    "sha": "83e41f7d2436441a7cfc07e1ff216a0ee70efd24",
     "history": [
+      {
+        "version": "2026.05.15-215207",
+        "action": "push",
+        "at": "2026-05-15T18:52:07.934Z",
+        "sha": "83e41f7d2436441a7cfc07e1ff216a0ee70efd24",
+        "message": "Pushed to GitHub"
+      },
+      {
+        "version": "2026.05.15-215045",
+        "action": "localSave",
+        "at": "2026-05-15T18:50:45.956Z",
+        "sha": "83e41f7d2436441a7cfc07e1ff216a0ee70efd24",
+        "author": "denis",
+        "message": "Saved locally by denis"
+      },
+      {
+        "version": "2026.05.15-215006",
+        "action": "push",
+        "at": "2026-05-15T18:50:08.299Z",
+        "sha": "83e41f7d2436441a7cfc07e1ff216a0ee70efd24",
+        "message": "Force pushed by denis"
+      },
       {
         "version": "2026.05.15-215006",
         "action": "push",
