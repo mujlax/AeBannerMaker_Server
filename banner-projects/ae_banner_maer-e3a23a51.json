@@ -4,7 +4,7 @@
     "schemaVersion": 1,
     "projectPath": "/Users/deniszablincev/Documents/_2026/AeBannerMaker/AE/AE_Banner_Maer.aep",
     "projectName": "ae_banner_maer",
-    "lastOpenedAt": "2026-05-15T15:36:42.614Z"
+    "lastOpenedAt": "2026-05-15T15:51:58.060Z"
   },
   "frames": [
     {
@@ -57,8 +57,8 @@
     },
     {
       "id": "adaptive_mp72d7dw_kgr31x",
-      "x": 312,
-      "y": 228,
+      "x": 360,
+      "y": 252,
       "label": "Adaptive 2",
       "role": "adaptive",
       "adaptiveMode": "widthFluid",
@@ -66,15 +66,53 @@
       "fluidHeight": 250,
       "connectedFrameIds": [],
       "connectedFrameSettings": {}
+    },
+    {
+      "id": "adaptive_mp734y83_2nfxf2",
+      "x": 84,
+      "y": 300,
+      "label": "Adaptive 3",
+      "role": "adaptive",
+      "adaptiveMode": "widthFluid",
+      "fluidWidth": 300,
+      "fluidHeight": 250,
+      "connectedFrameIds": [],
+      "connectedFrameSettings": {}
+    },
+    {
+      "id": "adaptive_mp73ik7u_ojvxvf",
+      "role": "adaptive",
+      "x": 276,
+      "y": 456,
+      "label": "Adaptive 4",
+      "adaptiveMode": "widthFluid",
+      "fluidWidth": 300,
+      "fluidHeight": 250,
+      "connectedFrameIds": [],
+      "connectedFrameSettings": {}
     }
   ],
-  "selectedFrameId": "adaptive_mp72d7dw_kgr31x",
-  "updatedAt": "2026-05-15T15:38:10.813Z",
+  "selectedFrameId": "adaptive_mp73ik7u_ojvxvf",
+  "updatedAt": "2026-05-15T15:52:17.850Z",
   "sync": {
     "projectId": "ae_banner_maer-e3a23a51",
-    "version": "2026.05.15-183817",
-    "sha": "c2811777142054c40cda6fc16729fb6f80802f79",
+    "version": "2026.05.15-185237",
+    "sha": "766ba1a6b9736e55b9c2fec6e364a34f3c08e17d",
     "history": [
+      {
+        "version": "2026.05.15-185237",
+        "action": "push",
+        "at": "2026-05-15T15:52:37.294Z",
+        "sha": "766ba1a6b9736e55b9c2fec6e364a34f3c08e17d",
+        "message": "Pushed to GitHub"
+      },
+      {
+        "version": "0.1.0",
+        "action": "download",
+        "at": "2026-05-15T15:38:22.501Z",
+        "sha": "766ba1a6b9736e55b9c2fec6e364a34f3c08e17d",
+        "message": "Downloaded from GitHub"
+      },
       {
         "version": "2026.05.15-183817",
         "action": "push",
