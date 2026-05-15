@@ -4,7 +4,7 @@
     "schemaVersion": 1,
     "projectPath": "/Users/deniszablincev/Documents/_2026/After/_test/2/temp.aep",
     "projectName": "temp",
-    "lastOpenedAt": "2026-05-15T15:58:40.739Z"
+    "lastOpenedAt": "2026-05-15T17:27:39.104Z"
   },
   "frames": [
     {
@@ -114,10 +114,10 @@
     },
     {
       "id": "adaptive_mp73qzaa_1ojobv",
-      "role": "adaptive",
       "x": 792,
       "y": 108,
       "label": "Adaptive 6",
+      "role": "adaptive",
       "adaptiveMode": "widthFluid",
       "fluidWidth": 300,
       "fluidHeight": 250,
@@ -126,12 +126,26 @@
     }
   ],
   "selectedFrameId": "adaptive_mp73qzaa_1ojobv",
-  "updatedAt": "2026-05-15T15:58:50.754Z",
+  "updatedAt": "2026-05-15T17:27:39.199Z",
   "sync": {
     "projectId": "ae_banner_maer-e3a23a51",
-    "version": "2026.05.15-185902",
-    "sha": "318850e4254a9a91f51f5320d5744b01191d4cae",
+    "version": "2026.05.15-202752",
+    "sha": "024b821e7f5875474f5a27e33ddc79f5caafa18e",
     "history": [
+      {
+        "version": "2026.05.15-202752",
+        "action": "push",
+        "at": "2026-05-15T17:27:52.454Z",
+        "sha": "024b821e7f5875474f5a27e33ddc79f5caafa18e",
+        "message": "Pushed to GitHub"
+      },
+      {
+        "version": "2026.05.15-185902",
+        "action": "push",
+        "at": "2026-05-15T15:59:03.951Z",
+        "sha": "024b821e7f5875474f5a27e33ddc79f5caafa18e",
+        "message": "Pushed by denis"
+      },
       {
         "version": "2026.05.15-185902",
         "action": "push",
@@ -144,7 +158,6 @@
         "action": "localSave",
         "at": "2026-05-15T15:58:51.612Z",
         "sha": "318850e4254a9a91f51f5320d5744b01191d4cae",
-        "author": "denis",
         "message": "Saved locally by denis"
       },
       {
