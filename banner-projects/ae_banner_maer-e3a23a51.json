@@ -4,7 +4,7 @@
     "schemaVersion": 1,
     "projectPath": "/Users/deniszablincev/Documents/_2026/AeBannerMaker/AE/AE_Banner_Maer.aep",
     "projectName": "ae_banner_maer",
-    "lastOpenedAt": "2026-05-15T15:12:02.219Z"
+    "lastOpenedAt": "2026-05-15T15:36:42.614Z"
   },
   "frames": [
     {
@@ -57,10 +57,10 @@
     },
     {
       "id": "adaptive_mp72d7dw_kgr31x",
-      "role": "adaptive",
       "x": 312,
       "y": 228,
       "label": "Adaptive 2",
+      "role": "adaptive",
       "adaptiveMode": "widthFluid",
       "fluidWidth": 300,
       "fluidHeight": 250,
@@ -69,12 +69,26 @@
     }
   ],
   "selectedFrameId": "adaptive_mp72d7dw_kgr31x",
-  "updatedAt": "2026-05-15T15:20:08.373Z",
+  "updatedAt": "2026-05-15T15:36:42.714Z",
   "sync": {
     "projectId": "ae_banner_maer-e3a23a51",
-    "version": "2026.05.15-181905",
-    "sha": "bbfe08534f35bb9ca4776925d65ca2710e46710d",
+    "version": "2026.05.15-183713",
+    "sha": "8b3c08ad66f26090a6b1075494857dec3fe3f34e",
     "history": [
+      {
+        "version": "2026.05.15-183713",
+        "action": "push",
+        "at": "2026-05-15T15:37:13.770Z",
+        "sha": "8b3c08ad66f26090a6b1075494857dec3fe3f34e",
+        "message": "Pushed to GitHub"
+      },
+      {
+        "version": "2026.05.15-182016",
+        "action": "push",
+        "at": "2026-05-15T15:20:17.943Z",
+        "sha": "8b3c08ad66f26090a6b1075494857dec3fe3f34e",
+        "message": "Pushed to GitHub"
+      },
       {
         "version": "2026.05.15-181905",
         "action": "push",
