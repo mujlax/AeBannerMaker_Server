@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "projectMeta": {
     "schemaVersion": 1,
-    "projectPath": "/Users/deniszablincev/Documents/_2026/AeBannerMaker/AE/AE_Banner_Maer.aep",
-    "projectName": "ae_banner_maer",
-    "lastOpenedAt": "2026-05-15T15:51:58.060Z"
+    "projectPath": "/Users/deniszablincev/Documents/_2026/After/_test/2/temp.aep",
+    "projectName": "temp",
+    "lastOpenedAt": "2026-05-15T15:58:40.739Z"
   },
   "frames": [
     {
@@ -93,10 +93,10 @@
     },
     {
       "id": "adaptive_mp73o3h7_d9bg07",
-      "role": "adaptive",
       "x": 184,
       "y": 148,
       "label": "Adaptive 5",
+      "role": "adaptive",
       "adaptiveMode": "widthFluid",
       "fluidWidth": 300,
       "fluidHeight": 250,
@@ -105,21 +105,55 @@
     },
     {
       "id": "firmware_mp73o690_dvmbis",
-      "role": "firmware",
       "x": 600,
       "y": 204,
       "label": "Firmware 2",
+      "role": "firmware",
       "connectedFrameIds": [],
       "profileId": null
+    },
+    {
+      "id": "adaptive_mp73qzaa_1ojobv",
+      "role": "adaptive",
+      "x": 792,
+      "y": 108,
+      "label": "Adaptive 6",
+      "adaptiveMode": "widthFluid",
+      "fluidWidth": 300,
+      "fluidHeight": 250,
+      "connectedFrameIds": [],
+      "connectedFrameSettings": {}
     }
   ],
-  "selectedFrameId": "firmware_mp73o690_dvmbis",
-  "updatedAt": "2026-05-15T15:56:39.826Z",
+  "selectedFrameId": "adaptive_mp73qzaa_1ojobv",
+  "updatedAt": "2026-05-15T15:58:50.754Z",
   "sync": {
     "projectId": "ae_banner_maer-e3a23a51",
-    "version": "2026.05.15-185703",
-    "sha": "234e78c7709a3f018c9fb819fe8e7fc45c6e0815",
+    "version": "2026.05.15-185902",
+    "sha": "318850e4254a9a91f51f5320d5744b01191d4cae",
     "history": [
+      {
+        "version": "2026.05.15-185902",
+        "action": "push",
+        "at": "2026-05-15T15:59:02.978Z",
+        "sha": "318850e4254a9a91f51f5320d5744b01191d4cae",
+        "message": "Pushed to GitHub"
+      },
+      {
+        "version": "2026.05.15-185851",
+        "action": "localSave",
+        "at": "2026-05-15T15:58:51.612Z",
+        "sha": "318850e4254a9a91f51f5320d5744b01191d4cae",
+        "author": "denis",
+        "message": "Saved locally by denis"
+      },
+      {
+        "version": "2026.05.15-185703",
+        "action": "push",
+        "at": "2026-05-15T15:57:04.145Z",
+        "sha": "318850e4254a9a91f51f5320d5744b01191d4cae",
+        "message": "Pushed by denis"
+      },
       {
         "version": "2026.05.15-185703",
         "action": "push",
@@ -132,7 +166,6 @@
         "action": "pull",
         "at": "2026-05-15T15:56:28.160Z",
         "sha": "234e78c7709a3f018c9fb819fe8e7fc45c6e0815",
-        "author": "denis",
         "message": "Pulled by denis"
       },
       {
