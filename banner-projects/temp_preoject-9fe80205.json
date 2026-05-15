@@ -4,27 +4,63 @@
     "schemaVersion": 1,
     "projectPath": "/Users/deniszablincev/Downloads/temp2222/temp_preoject.aep",
     "projectName": "temp_preoject",
-    "lastOpenedAt": "2026-05-15T17:45:30.484Z"
+    "lastOpenedAt": "2026-05-15T19:46:51.130Z"
   },
   "frames": [
     {
-      "id": "adaptive_mp77mc83_c5nubw",
-      "role": "adaptive",
-      "x": 40,
-      "y": 40,
+      "id": "content_mp7184nz_615k12",
+      "x": 24,
+      "y": 24,
+      "label": "300x250",
+      "role": "content",
+      "compRef": {
+        "itemId": 1,
+        "name": "300x250",
+        "width": 300,
+        "height": 260,
+        "duration": 10,
+        "frameRate": 30,
+        "folderPath": [],
+        "folderKey": "",
+        "folderLabel": "Banners"
+      },
+      "missing": false
+    },
+    {
+      "id": "adaptive_mp71889d_z3rx87",
+      "x": 312,
+      "y": 36,
       "label": "Adaptive 1",
+      "role": "adaptive",
       "adaptiveMode": "widthFluid",
       "fluidWidth": 300,
       "fluidHeight": 250,
-      "connectedFrameIds": [],
-      "connectedFrameSettings": {}
+      "connectedFrameIds": [
+        "content_mp7184nz_615k12"
+      ],
+      "connectedFrameSettings": {
+        "content_mp7184nz_615k12": {
+          "resizeMode": "center"
+        }
+      }
     },
     {
-      "id": "adaptive_mp77md4y_ktq44e",
-      "role": "adaptive",
-      "x": 64,
-      "y": 58,
+      "id": "firmware_mp718c7n_jp7rr7",
+      "x": 588,
+      "y": 84,
+      "label": "Firmware 1",
+      "role": "firmware",
+      "connectedFrameIds": [
+        "adaptive_mp71889d_z3rx87"
+      ],
+      "profileId": "fp_morlwk6l_2bydnb"
+    },
+    {
+      "id": "adaptive_mp72d7dw_kgr31x",
+      "x": 360,
+      "y": 252,
       "label": "Adaptive 2",
+      "role": "adaptive",
       "adaptiveMode": "widthFluid",
       "fluidWidth": 300,
       "fluidHeight": 250,
@@ -32,11 +68,11 @@
       "connectedFrameSettings": {}
     },
     {
-      "id": "adaptive_mp77mdnt_hrvloa",
-      "role": "adaptive",
-      "x": 88,
-      "y": 76,
+      "id": "adaptive_mp734y83_2nfxf2",
+      "x": 84,
+      "y": 300,
       "label": "Adaptive 3",
+      "role": "adaptive",
       "adaptiveMode": "widthFluid",
       "fluidWidth": 300,
       "fluidHeight": 250,
@@ -44,11 +80,35 @@
       "connectedFrameSettings": {}
     },
     {
-      "id": "adaptive_mp77n283_f98pjp",
-      "role": "adaptive",
-      "x": 112,
-      "y": 94,
+      "id": "adaptive_mp73ik7u_ojvxvf",
+      "x": 276,
+      "y": 456,
       "label": "Adaptive 4",
+      "role": "adaptive",
+      "adaptiveMode": "widthFluid",
+      "fluidWidth": 300,
+      "fluidHeight": 250,
+      "connectedFrameIds": [],
+      "connectedFrameSettings": {}
+    },
+    {
+      "id": "adaptive_mp79w0uk_s2hgqb",
+      "x": 184,
+      "y": 148,
+      "label": "Adaptive 5",
+      "role": "adaptive",
+      "adaptiveMode": "widthFluid",
+      "fluidWidth": 300,
+      "fluidHeight": 250,
+      "connectedFrameIds": [],
+      "connectedFrameSettings": {}
+    },
+    {
+      "id": "adaptive_mp79w1nq_gnbf4d",
+      "x": 208,
+      "y": 166,
+      "label": "Adaptive 6",
+      "role": "adaptive",
       "adaptiveMode": "widthFluid",
       "fluidWidth": 300,
       "fluidHeight": 250,
@@ -56,55 +116,179 @@
       "connectedFrameSettings": {}
     }
   ],
-  "selectedFrameId": "adaptive_mp77n283_f98pjp",
-  "updatedAt": "2026-05-15T17:47:45.027Z",
+  "selectedFrameId": "adaptive_mp79w1nq_gnbf4d",
+  "updatedAt": "2026-05-15T19:46:51.130Z",
   "sync": {
     "projectId": "temp_preoject-9fe80205",
-    "version": "2026.05.15-204802",
-    "sha": "d3fa0cf117092ef1494a542ed68ebacc22154712",
+    "version": "2026.05.15-224651",
+    "sha": "95eac690443b73df4dc7856d3572d6ba4921087d",
     "history": [
       {
-        "version": "2026.05.15-204802",
+        "version": "2026.05.15-224651",
         "action": "push",
-        "at": "2026-05-15T17:48:02.712Z",
-        "sha": "d3fa0cf117092ef1494a542ed68ebacc22154712",
+        "at": "2026-05-15T19:46:51.576Z",
+        "sha": "95eac690443b73df4dc7856d3572d6ba4921087d",
         "message": "Pushed to GitHub"
       },
       {
-        "version": "2026.05.15-204746",
-        "action": "localSave",
-        "at": "2026-05-15T17:47:46.762Z",
-        "sha": "d3fa0cf117092ef1494a542ed68ebacc22154712",
-        "author": "denis",
-        "message": "Saved locally by denis"
-      },
-      {
-        "version": "2026.05.15-204742",
-        "action": "localSave",
-        "at": "2026-05-15T17:47:42.577Z",
-        "sha": "d3fa0cf117092ef1494a542ed68ebacc22154712",
-        "author": "denis",
-        "message": "Saved locally by denis"
-      },
-      {
-        "version": "2026.05.15-204716",
-        "action": "localSave",
-        "at": "2026-05-15T17:47:16.666Z",
-        "sha": "d3fa0cf117092ef1494a542ed68ebacc22154712",
-        "author": "denis",
-        "message": "Saved locally by denis"
-      },
-      {
-        "version": "2026.05.15-203008",
+        "version": "2026.05.15-215248",
         "action": "push",
-        "at": "2026-05-15T17:30:09.218Z",
-        "sha": "d3fa0cf117092ef1494a542ed68ebacc22154712",
+        "at": "2026-05-15T18:52:49.747Z",
+        "sha": "e4f3341332294d39c4cf732f50c3198ceddd24da",
+        "message": "Force pushed by denis"
+      },
+      {
+        "version": "2026.05.15-215248",
+        "action": "push",
+        "at": "2026-05-15T18:52:48.606Z",
+        "sha": "6f4520cffafcf4ed777ff15a1b0526bf71f70816",
+        "message": "Pushed to GitHub"
+      },
+      {
+        "version": "2026.05.15-215242",
+        "action": "push",
+        "at": "2026-05-15T18:52:43.914Z",
+        "sha": "6f4520cffafcf4ed777ff15a1b0526bf71f70816",
         "message": "Pushed by denis"
       },
       {
-        "version": "2026.05.15-203008",
+        "version": "2026.05.15-215242",
         "action": "push",
-        "at": "2026-05-15T17:30:08.038Z",
+        "at": "2026-05-15T18:52:42.772Z",
+        "sha": "b6484f792b7ba3c2910738bf220abea65088abd5",
+        "message": "Pushed to GitHub"
+      },
+      {
+        "version": "2026.05.15-215207",
+        "action": "push",
+        "at": "2026-05-15T18:52:08.992Z",
+        "sha": "b6484f792b7ba3c2910738bf220abea65088abd5",
+        "message": "Pushed by denis"
+      },
+      {
+        "version": "2026.05.15-215207",
+        "action": "push",
+        "at": "2026-05-15T18:52:07.934Z",
+        "sha": "83e41f7d2436441a7cfc07e1ff216a0ee70efd24",
+        "message": "Pushed to GitHub"
+      },
+      {
+        "version": "2026.05.15-215045",
+        "action": "localSave",
+        "at": "2026-05-15T18:50:45.956Z",
+        "sha": "83e41f7d2436441a7cfc07e1ff216a0ee70efd24",
+        "message": "Saved locally by denis"
+      },
+      {
+        "version": "2026.05.15-215006",
+        "action": "push",
+        "at": "2026-05-15T18:50:08.299Z",
+        "sha": "83e41f7d2436441a7cfc07e1ff216a0ee70efd24",
+        "message": "Force pushed by denis"
+      },
+      {
+        "version": "2026.05.15-215006",
+        "action": "push",
+        "at": "2026-05-15T18:50:07.225Z",
+        "sha": "24aebf6fd5fa6e9c225766deb5c4377e5d0d8a70",
+        "message": "Pushed to GitHub"
+      },
+      {
+        "version": "2026.05.15-214730",
+        "action": "localSave",
+        "at": "2026-05-15T18:47:30.258Z",
+        "sha": "234e78c7709a3f018c9fb819fe8e7fc45c6e0815",
+        "message": "Saved locally by denis"
+      },
+      {
+        "version": "2026.05.15-204818",
+        "action": "localSave",
+        "at": "2026-05-15T17:48:18.595Z",
+        "sha": "234e78c7709a3f018c9fb819fe8e7fc45c6e0815",
+        "message": "Saved locally by denis"
+      },
+      {
+        "version": "2026.05.15-201741",
+        "action": "localSave",
+        "at": "2026-05-15T17:17:41.102Z",
+        "sha": "234e78c7709a3f018c9fb819fe8e7fc45c6e0815",
+        "message": "Saved locally by denis"
+      },
+      {
+        "version": "2026.05.15-201727",
+        "action": "localSave",
+        "at": "2026-05-15T17:17:27.122Z",
+        "sha": "234e78c7709a3f018c9fb819fe8e7fc45c6e0815",
+        "message": "Saved locally by denis"
+      },
+      {
+        "version": "2026.05.15-185237",
+        "action": "push",
+        "at": "2026-05-15T15:52:38.289Z",
+        "sha": "234e78c7709a3f018c9fb819fe8e7fc45c6e0815",
+        "message": "Pushed by denis"
+      },
+      {
+        "version": "2026.05.15-185237",
+        "action": "push",
+        "at": "2026-05-15T15:52:37.294Z",
+        "sha": "766ba1a6b9736e55b9c2fec6e364a34f3c08e17d",
+        "message": "Pushed to GitHub"
+      },
+      {
+        "version": "0.1.0",
+        "action": "download",
+        "at": "2026-05-15T15:38:22.501Z",
+        "sha": "766ba1a6b9736e55b9c2fec6e364a34f3c08e17d",
+        "message": "Downloaded from GitHub"
+      },
+      {
+        "version": "2026.05.15-183817",
+        "action": "push",
+        "at": "2026-05-15T15:38:17.783Z",
+        "sha": "c2811777142054c40cda6fc16729fb6f80802f79",
+        "message": "Pushed to GitHub"
+      },
+      {
+        "version": "2026.05.15-183757",
+        "action": "pull",
+        "at": "2026-05-15T15:38:10.813Z",
+        "sha": "c2811777142054c40cda6fc16729fb6f80802f79",
+        "message": "Pulled from GitHub"
+      },
+      {
+        "version": "2026.05.15-183757",
+        "action": "push",
+        "at": "2026-05-15T15:37:57.749Z",
+        "sha": "e86614d6d74e206bbff3dd737a089b1548994712",
+        "message": "Pushed to GitHub"
+      },
+      {
+        "version": "0.1.0",
+        "action": "download",
+        "at": "2026-05-15T15:37:38.313Z",
+        "sha": "e86614d6d74e206bbff3dd737a089b1548994712",
+        "message": "Downloaded from GitHub"
+      },
+      {
+        "version": "2026.05.15-183713",
+        "action": "push",
+        "at": "2026-05-15T15:37:13.770Z",
+        "sha": "8b3c08ad66f26090a6b1075494857dec3fe3f34e",
+        "message": "Pushed to GitHub"
+      },
+      {
+        "version": "2026.05.15-182016",
+        "action": "push",
+        "at": "2026-05-15T15:20:17.943Z",
+        "sha": "8b3c08ad66f26090a6b1075494857dec3fe3f34e",
+        "message": "Pushed to GitHub"
+      },
+      {
+        "version": "2026.05.15-181905",
+        "action": "push",
+        "at": "2026-05-15T15:19:06.159Z",
+        "sha": "bbfe08534f35bb9ca4776925d65ca2710e46710d",
         "message": "Pushed to GitHub"
       }
     ]
