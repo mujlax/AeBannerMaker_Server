@@ -1,0 +1,52 @@
+{
+  "id": "fp_motvbvw2_z6b82x",
+  "name": "New firmware",
+  "platform": "default",
+  "version": "2026-05-15 00:38",
+  "sizeGroups": [
+    {
+      "id": "sg_motvbvw2_4b42xz",
+      "label": "Static sizes",
+      "sizeMode": "static",
+      "sizes": [
+        {
+          "width": 300,
+          "height": 250
+        },
+        {
+          "width": 240,
+          "height": 400
+        }
+      ],
+      "widthFluidHeightsPx": [],
+      "heightFluidWidthsPx": [],
+      "clickWrapper": {
+        "openTag": "",
+        "closeTag": "",
+        "outlineColor": ""
+      },
+      "headHtml": "",
+      "bodyHtmlBeforeClose": "",
+      "validation": {},
+      "optimizeJsOnExport": true,
+      "optimizeImagesOnExport": true,
+      "clickFrameEnabled": false,
+      "borderEnabled": true,
+      "borderColor": "#000000"
+    }
+  ],
+  "createdAt": "2026-05-06T09:42:07.922Z",
+  "updatedAt": "2026-05-14T21:38:07.878Z",
+  "sync": {
+    "profileId": "fp_motvbvw2_z6b82x",
+    "version": "2026.05.15-192706",
+    "history": [
+      {
+        "version": "2026.05.15-192706",
+        "action": "push",
+        "at": "2026-05-15T16:27:06.592Z",
+        "message": "Pushed to GitHub"
+      }
+    ]
+  }
+}
