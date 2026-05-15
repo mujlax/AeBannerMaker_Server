@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "projectMeta": {
+    "schemaVersion": 1,
+    "projectPath": "/Users/deniszablincev/Documents/_2026/AeBannerMaker/AE/AE_Banner_Maer.aep",
+    "projectName": "ae_banner_maer",
+    "lastOpenedAt": "2026-05-15T15:12:02.219Z"
+  },
+  "frames": [
+    {
+      "id": "content_mp7184nz_615k12",
+      "x": 24,
+      "y": 24,
+      "label": "300x300",
+      "role": "content",
+      "compRef": {
+        "itemId": 1,
+        "name": "300x300",
+        "width": 300,
+        "height": 300,
+        "duration": 10,
+        "frameRate": 30,
+        "folderPath": [],
+        "folderKey": "",
+        "folderLabel": "Banners"
+      },
+      "missing": true
+    },
+    {
+      "id": "adaptive_mp71889d_z3rx87",
+      "x": 312,
+      "y": 36,
+      "label": "Adaptive 1",
+      "role": "adaptive",
+      "adaptiveMode": "widthFluid",
+      "fluidWidth": 300,
+      "fluidHeight": 250,
+      "connectedFrameIds": [
+        "content_mp7184nz_615k12"
+      ],
+      "connectedFrameSettings": {
+        "content_mp7184nz_615k12": {
+          "resizeMode": "center"
+        }
+      }
+    },
+    {
+      "id": "firmware_mp718c7n_jp7rr7",
+      "x": 588,
+      "y": 84,
+      "label": "Firmware 1",
+      "role": "firmware",
+      "connectedFrameIds": [
+        "adaptive_mp71889d_z3rx87"
+      ],
+      "profileId": "fp_morlwk6l_2bydnb"
+    }
+  ],
+  "selectedFrameId": "adaptive_mp71889d_z3rx87",
+  "updatedAt": "2026-05-15T15:12:02.321Z"
+}
