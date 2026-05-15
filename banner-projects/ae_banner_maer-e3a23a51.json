@@ -2,22 +2,22 @@
   "schemaVersion": 1,
   "projectMeta": {
     "schemaVersion": 1,
-    "projectPath": "/Users/deniszablincev/Documents/_2026/After/_test/2/temp.aep",
-    "projectName": "temp",
-    "lastOpenedAt": "2026-05-15T17:27:39.104Z"
+    "projectPath": "/Users/deniszablincev/Downloads/temp2222/temp_preoject.aep",
+    "projectName": "temp_preoject",
+    "lastOpenedAt": "2026-05-15T18:49:55.315Z"
   },
   "frames": [
     {
       "id": "content_mp7184nz_615k12",
       "x": 24,
       "y": 24,
-      "label": "300x300",
+      "label": "300x250",
       "role": "content",
       "compRef": {
         "itemId": 1,
-        "name": "300x300",
+        "name": "300x250",
         "width": 300,
-        "height": 300,
+        "height": 260,
         "duration": 10,
         "frameRate": 30,
         "folderPath": [],
@@ -90,96 +90,56 @@
       "fluidHeight": 250,
       "connectedFrameIds": [],
       "connectedFrameSettings": {}
-    },
-    {
-      "id": "adaptive_mp73o3h7_d9bg07",
-      "x": 184,
-      "y": 148,
-      "label": "Adaptive 5",
-      "role": "adaptive",
-      "adaptiveMode": "widthFluid",
-      "fluidWidth": 300,
-      "fluidHeight": 250,
-      "connectedFrameIds": [],
-      "connectedFrameSettings": {}
-    },
-    {
-      "id": "firmware_mp73o690_dvmbis",
-      "x": 600,
-      "y": 204,
-      "label": "Firmware 2",
-      "role": "firmware",
-      "connectedFrameIds": [],
-      "profileId": null
-    },
-    {
-      "id": "adaptive_mp73qzaa_1ojobv",
-      "x": 792,
-      "y": 108,
-      "label": "Adaptive 6",
-      "role": "adaptive",
-      "adaptiveMode": "widthFluid",
-      "fluidWidth": 300,
-      "fluidHeight": 250,
-      "connectedFrameIds": [],
-      "connectedFrameSettings": {}
     }
   ],
-  "selectedFrameId": "adaptive_mp73qzaa_1ojobv",
-  "updatedAt": "2026-05-15T17:27:39.199Z",
+  "selectedFrameId": "adaptive_mp73ik7u_ojvxvf",
+  "updatedAt": "2026-05-15T18:49:55.412Z",
   "sync": {
     "projectId": "ae_banner_maer-e3a23a51",
-    "version": "2026.05.15-202752",
-    "sha": "024b821e7f5875474f5a27e33ddc79f5caafa18e",
+    "version": "2026.05.15-215006",
+    "sha": "24aebf6fd5fa6e9c225766deb5c4377e5d0d8a70",
     "history": [
       {
-        "version": "2026.05.15-202752",
+        "version": "2026.05.15-215006",
         "action": "push",
-        "at": "2026-05-15T17:27:52.454Z",
-        "sha": "024b821e7f5875474f5a27e33ddc79f5caafa18e",
+        "at": "2026-05-15T18:50:07.225Z",
+        "sha": "24aebf6fd5fa6e9c225766deb5c4377e5d0d8a70",
         "message": "Pushed to GitHub"
       },
       {
-        "version": "2026.05.15-185902",
-        "action": "push",
-        "at": "2026-05-15T15:59:03.951Z",
-        "sha": "024b821e7f5875474f5a27e33ddc79f5caafa18e",
-        "message": "Pushed by denis"
-      },
-      {
-        "version": "2026.05.15-185902",
-        "action": "push",
-        "at": "2026-05-15T15:59:02.978Z",
-        "sha": "318850e4254a9a91f51f5320d5744b01191d4cae",
-        "message": "Pushed to GitHub"
-      },
-      {
-        "version": "2026.05.15-185851",
+        "version": "2026.05.15-214730",
         "action": "localSave",
-        "at": "2026-05-15T15:58:51.612Z",
-        "sha": "318850e4254a9a91f51f5320d5744b01191d4cae",
+        "at": "2026-05-15T18:47:30.258Z",
+        "sha": "234e78c7709a3f018c9fb819fe8e7fc45c6e0815",
         "message": "Saved locally by denis"
       },
       {
-        "version": "2026.05.15-185703",
-        "action": "push",
-        "at": "2026-05-15T15:57:04.145Z",
-        "sha": "318850e4254a9a91f51f5320d5744b01191d4cae",
-        "message": "Pushed by denis"
+        "version": "2026.05.15-204818",
+        "action": "localSave",
+        "at": "2026-05-15T17:48:18.595Z",
+        "sha": "234e78c7709a3f018c9fb819fe8e7fc45c6e0815",
+        "message": "Saved locally by denis"
       },
       {
-        "version": "2026.05.15-185703",
-        "action": "push",
-        "at": "2026-05-15T15:57:03.089Z",
+        "version": "2026.05.15-201741",
+        "action": "localSave",
+        "at": "2026-05-15T17:17:41.102Z",
         "sha": "234e78c7709a3f018c9fb819fe8e7fc45c6e0815",
-        "message": "Pushed to GitHub"
+        "message": "Saved locally by denis"
+      },
+      {
+        "version": "2026.05.15-201727",
+        "action": "localSave",
+        "at": "2026-05-15T17:17:27.122Z",
+        "sha": "234e78c7709a3f018c9fb819fe8e7fc45c6e0815",
+        "message": "Saved locally by denis"
       },
       {
         "version": "2026.05.15-185237",
-        "action": "pull",
-        "at": "2026-05-15T15:56:28.160Z",
+        "action": "push",
+        "at": "2026-05-15T15:52:38.289Z",
         "sha": "234e78c7709a3f018c9fb819fe8e7fc45c6e0815",
-        "message": "Pulled by denis"
+        "message": "Pushed by denis"
       },
       {
         "version": "2026.05.15-185237",
