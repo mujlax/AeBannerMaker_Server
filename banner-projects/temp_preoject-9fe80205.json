@@ -4,15 +4,103 @@
     "schemaVersion": 1,
     "projectPath": "/Users/deniszablincev/Downloads/temp2222/temp_preoject.aep",
     "projectName": "temp_preoject",
-    "lastOpenedAt": "2026-05-15T17:29:50.309Z"
+    "lastOpenedAt": "2026-05-15T17:45:30.484Z"
   },
-  "frames": [],
-  "selectedFrameId": null,
-  "updatedAt": "2026-05-15T17:29:50.316Z",
+  "frames": [
+    {
+      "id": "adaptive_mp77mc83_c5nubw",
+      "role": "adaptive",
+      "x": 40,
+      "y": 40,
+      "label": "Adaptive 1",
+      "adaptiveMode": "widthFluid",
+      "fluidWidth": 300,
+      "fluidHeight": 250,
+      "connectedFrameIds": [],
+      "connectedFrameSettings": {}
+    },
+    {
+      "id": "adaptive_mp77md4y_ktq44e",
+      "role": "adaptive",
+      "x": 64,
+      "y": 58,
+      "label": "Adaptive 2",
+      "adaptiveMode": "widthFluid",
+      "fluidWidth": 300,
+      "fluidHeight": 250,
+      "connectedFrameIds": [],
+      "connectedFrameSettings": {}
+    },
+    {
+      "id": "adaptive_mp77mdnt_hrvloa",
+      "role": "adaptive",
+      "x": 88,
+      "y": 76,
+      "label": "Adaptive 3",
+      "adaptiveMode": "widthFluid",
+      "fluidWidth": 300,
+      "fluidHeight": 250,
+      "connectedFrameIds": [],
+      "connectedFrameSettings": {}
+    },
+    {
+      "id": "adaptive_mp77n283_f98pjp",
+      "role": "adaptive",
+      "x": 112,
+      "y": 94,
+      "label": "Adaptive 4",
+      "adaptiveMode": "widthFluid",
+      "fluidWidth": 300,
+      "fluidHeight": 250,
+      "connectedFrameIds": [],
+      "connectedFrameSettings": {}
+    }
+  ],
+  "selectedFrameId": "adaptive_mp77n283_f98pjp",
+  "updatedAt": "2026-05-15T17:47:45.027Z",
   "sync": {
     "projectId": "temp_preoject-9fe80205",
-    "version": "2026.05.15-203008",
+    "version": "2026.05.15-204802",
+    "sha": "d3fa0cf117092ef1494a542ed68ebacc22154712",
     "history": [
+      {
+        "version": "2026.05.15-204802",
+        "action": "push",
+        "at": "2026-05-15T17:48:02.712Z",
+        "sha": "d3fa0cf117092ef1494a542ed68ebacc22154712",
+        "message": "Pushed to GitHub"
+      },
+      {
+        "version": "2026.05.15-204746",
+        "action": "localSave",
+        "at": "2026-05-15T17:47:46.762Z",
+        "sha": "d3fa0cf117092ef1494a542ed68ebacc22154712",
+        "author": "denis",
+        "message": "Saved locally by denis"
+      },
+      {
+        "version": "2026.05.15-204742",
+        "action": "localSave",
+        "at": "2026-05-15T17:47:42.577Z",
+        "sha": "d3fa0cf117092ef1494a542ed68ebacc22154712",
+        "author": "denis",
+        "message": "Saved locally by denis"
+      },
+      {
+        "version": "2026.05.15-204716",
+        "action": "localSave",
+        "at": "2026-05-15T17:47:16.666Z",
+        "sha": "d3fa0cf117092ef1494a542ed68ebacc22154712",
+        "author": "denis",
+        "message": "Saved locally by denis"
+      },
+      {
+        "version": "2026.05.15-203008",
+        "action": "push",
+        "at": "2026-05-15T17:30:09.218Z",
+        "sha": "d3fa0cf117092ef1494a542ed68ebacc22154712",
+        "message": "Pushed by denis"
+      },
       {
         "version": "2026.05.15-203008",
         "action": "push",
