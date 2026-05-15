@@ -1,0 +1,110 @@
+{
+  "id": "fp_morlwk6l_2bydnb",
+  "name": "YandexName",
+  "platform": "yandex",
+  "version": "2026-05-07 22:05",
+  "sizeGroups": [
+    {
+      "id": "sg_morlwk6l_pgftt5",
+      "label": "Static sizes 300",
+      "sizeMode": "static",
+      "sizes": [
+        {
+          "width": 300,
+          "height": 250
+        }
+      ],
+      "widthFluidHeightsPx": [],
+      "heightFluidWidthsPx": [],
+      "clickWrapper": {
+        "openTag": "<a href=\"yandex.ru\">",
+        "closeTag": "</a>",
+        "outlineColor": ""
+      },
+      "headHtml": "test",
+      "bodyHtmlBeforeClose": "testBefore",
+      "validation": {
+        "maxIndexHtmlBytes": 1024000,
+        "maxIndexJsBytes": 1024000,
+        "maxTotalBytes": 1024000
+      },
+      "optimizeJsOnExport": true,
+      "optimizeImagesOnExport": false,
+      "clickFrameEnabled": false,
+      "borderEnabled": true,
+      "borderColor": "#000000"
+    },
+    {
+      "id": "sg_morm6tzv_x46pbb",
+      "label": "Static sizes 512",
+      "sizeMode": "static",
+      "sizes": [
+        {
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "widthFluidHeightsPx": [],
+      "heightFluidWidthsPx": [],
+      "clickWrapper": {
+        "openTag": "<div class=\"aaa\"</div>",
+        "closeTag": "</div>",
+        "outlineColor": ""
+      },
+      "headHtml": "aaa",
+      "bodyHtmlBeforeClose": "tstatsas",
+      "validation": {
+        "maxIndexHtmlBytes": 204800,
+        "maxIndexJsBytes": 204800,
+        "maxTotalBytes": 204800
+      },
+      "optimizeJsOnExport": true,
+      "optimizeImagesOnExport": false,
+      "clickFrameEnabled": false,
+      "borderEnabled": true,
+      "borderColor": "#000000"
+    },
+    {
+      "id": "sg_motv92p9_wwk1ay",
+      "label": "Adaptive",
+      "sizeMode": "widthFluid",
+      "sizes": [
+        {
+          "width": 300,
+          "height": 250
+        }
+      ],
+      "widthFluidHeightsPx": [
+        250
+      ],
+      "heightFluidWidthsPx": [],
+      "clickWrapper": {
+        "openTag": "",
+        "closeTag": "",
+        "outlineColor": ""
+      },
+      "headHtml": "",
+      "bodyHtmlBeforeClose": "",
+      "validation": {},
+      "optimizeJsOnExport": false,
+      "optimizeImagesOnExport": false,
+      "clickFrameEnabled": false,
+      "borderEnabled": true,
+      "borderColor": "#000000"
+    }
+  ],
+  "createdAt": "2026-05-04T19:42:44.013Z",
+  "updatedAt": "2026-05-07T19:05:07.105Z",
+  "sync": {
+    "profileId": "fp_morlwk6l_2bydnb",
+    "version": "2026.05.15-192643",
+    "history": [
+      {
+        "version": "2026.05.15-192643",
+        "action": "push",
+        "at": "2026-05-15T16:26:43.056Z",
+        "message": "Pushed to GitHub"
+      }
+    ]
+  }
+}
