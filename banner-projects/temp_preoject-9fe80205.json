@@ -4,13 +4,24 @@
     "schemaVersion": 1,
     "projectPath": "/Users/deniszablincev/Downloads/temp2222/temp_preoject.aep",
     "projectName": "temp_preoject",
-    "lastOpenedAt": "2026-05-15T19:46:51.130Z"
+    "lastOpenedAt": "2026-05-15T21:00:05.635Z"
   },
   "frames": [
     {
-      "id": "content_mp7184nz_615k12",
-      "x": 24,
-      "y": 24,
+      "id": "firmware_mp718c7n_jp7rr7",
+      "x": 516,
+      "y": 120,
+      "label": "Firmware 1",
+      "role": "firmware",
+      "connectedFrameIds": [
+        "content_mp7cv07l_5hg086"
+      ],
+      "profileId": "fp_morlwk6l_2bydnb"
+    },
+    {
+      "id": "content_mp7cv07l_5hg086",
+      "x": 252,
+      "y": 204,
       "label": "300x250",
       "role": "content",
       "compRef": {
@@ -25,104 +36,36 @@
         "folderLabel": "Banners"
       },
       "missing": false
-    },
-    {
-      "id": "adaptive_mp71889d_z3rx87",
-      "x": 312,
-      "y": 36,
-      "label": "Adaptive 1",
-      "role": "adaptive",
-      "adaptiveMode": "widthFluid",
-      "fluidWidth": 300,
-      "fluidHeight": 250,
-      "connectedFrameIds": [
-        "content_mp7184nz_615k12"
-      ],
-      "connectedFrameSettings": {
-        "content_mp7184nz_615k12": {
-          "resizeMode": "center"
-        }
-      }
-    },
-    {
-      "id": "firmware_mp718c7n_jp7rr7",
-      "x": 588,
-      "y": 84,
-      "label": "Firmware 1",
-      "role": "firmware",
-      "connectedFrameIds": [
-        "adaptive_mp71889d_z3rx87"
-      ],
-      "profileId": "fp_morlwk6l_2bydnb"
-    },
-    {
-      "id": "adaptive_mp72d7dw_kgr31x",
-      "x": 360,
-      "y": 252,
-      "label": "Adaptive 2",
-      "role": "adaptive",
-      "adaptiveMode": "widthFluid",
-      "fluidWidth": 300,
-      "fluidHeight": 250,
-      "connectedFrameIds": [],
-      "connectedFrameSettings": {}
-    },
-    {
-      "id": "adaptive_mp734y83_2nfxf2",
-      "x": 84,
-      "y": 300,
-      "label": "Adaptive 3",
-      "role": "adaptive",
-      "adaptiveMode": "widthFluid",
-      "fluidWidth": 300,
-      "fluidHeight": 250,
-      "connectedFrameIds": [],
-      "connectedFrameSettings": {}
-    },
-    {
-      "id": "adaptive_mp73ik7u_ojvxvf",
-      "x": 276,
-      "y": 456,
-      "label": "Adaptive 4",
-      "role": "adaptive",
-      "adaptiveMode": "widthFluid",
-      "fluidWidth": 300,
-      "fluidHeight": 250,
-      "connectedFrameIds": [],
-      "connectedFrameSettings": {}
-    },
-    {
-      "id": "adaptive_mp79w0uk_s2hgqb",
-      "x": 184,
-      "y": 148,
-      "label": "Adaptive 5",
-      "role": "adaptive",
-      "adaptiveMode": "widthFluid",
-      "fluidWidth": 300,
-      "fluidHeight": 250,
-      "connectedFrameIds": [],
-      "connectedFrameSettings": {}
-    },
-    {
-      "id": "adaptive_mp79w1nq_gnbf4d",
-      "x": 208,
-      "y": 166,
-      "label": "Adaptive 6",
-      "role": "adaptive",
-      "adaptiveMode": "widthFluid",
-      "fluidWidth": 300,
-      "fluidHeight": 250,
-      "connectedFrameIds": [],
-      "connectedFrameSettings": {}
     }
   ],
-  "selectedFrameId": "adaptive_mp79w1nq_gnbf4d",
-  "updatedAt": "2026-05-15T19:46:51.130Z",
+  "selectedFrameId": "content_mp7cv07l_5hg086",
+  "updatedAt": "2026-05-15T21:00:05.636Z",
   "sync": {
     "projectId": "temp_preoject-9fe80205",
-    "version": "2026.05.15-224651",
-    "sha": "95eac690443b73df4dc7856d3572d6ba4921087d",
+    "version": "2026.05.16-000005",
+    "sha": "359ee58b128f7aeac5587dd15ac358d35af3606d",
     "history": [
+      {
+        "version": "2026.05.16-000005",
+        "action": "push",
+        "at": "2026-05-15T21:00:06.915Z",
+        "sha": "359ee58b128f7aeac5587dd15ac358d35af3606d",
+        "message": "Pushed to GitHub"
+      },
+      {
+        "version": "2026.05.15-235923",
+        "action": "localSave",
+        "at": "2026-05-15T20:59:23.559Z",
+        "sha": "359ee58b128f7aeac5587dd15ac358d35af3606d",
+        "message": "Saved locally by denis"
+      },
+      {
+        "version": "2026.05.15-224651",
+        "action": "pull",
+        "at": "2026-05-15T19:51:31.503Z",
+        "sha": "359ee58b128f7aeac5587dd15ac358d35af3606d",
+        "message": "Pulled by denis"
+      },
       {
         "version": "2026.05.15-224651",
         "action": "push",
