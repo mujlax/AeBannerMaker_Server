@@ -4,7 +4,7 @@
     "schemaVersion": 1,
     "projectPath": "/Users/deniszablincev/Downloads/temp2222/temp_preoject.aep",
     "projectName": "temp_preoject",
-    "lastOpenedAt": "2026-05-15T18:50:17.006Z"
+    "lastOpenedAt": "2026-05-15T18:52:15.816Z"
   },
   "frames": [
     {
@@ -93,10 +93,10 @@
     },
     {
       "id": "adaptive_mp79w0uk_s2hgqb",
-      "role": "adaptive",
       "x": 184,
       "y": 148,
       "label": "Adaptive 5",
+      "role": "adaptive",
       "adaptiveMode": "widthFluid",
       "fluidWidth": 300,
       "fluidHeight": 250,
@@ -105,10 +105,10 @@
     },
     {
       "id": "adaptive_mp79w1nq_gnbf4d",
-      "role": "adaptive",
       "x": 208,
       "y": 166,
       "label": "Adaptive 6",
+      "role": "adaptive",
       "adaptiveMode": "widthFluid",
       "fluidWidth": 300,
       "fluidHeight": 250,
@@ -117,12 +117,26 @@
     }
   ],
   "selectedFrameId": "adaptive_mp79w1nq_gnbf4d",
-  "updatedAt": "2026-05-15T18:50:43.431Z",
+  "updatedAt": "2026-05-15T18:52:15.816Z",
   "sync": {
     "projectId": "ae_banner_maer-e3a23a51",
-    "version": "2026.05.15-215207",
-    "sha": "83e41f7d2436441a7cfc07e1ff216a0ee70efd24",
+    "version": "2026.05.15-215242",
+    "sha": "b6484f792b7ba3c2910738bf220abea65088abd5",
     "history": [
+      {
+        "version": "2026.05.15-215242",
+        "action": "push",
+        "at": "2026-05-15T18:52:42.772Z",
+        "sha": "b6484f792b7ba3c2910738bf220abea65088abd5",
+        "message": "Pushed to GitHub"
+      },
+      {
+        "version": "2026.05.15-215207",
+        "action": "push",
+        "at": "2026-05-15T18:52:08.992Z",
+        "sha": "b6484f792b7ba3c2910738bf220abea65088abd5",
+        "message": "Pushed by denis"
+      },
       {
         "version": "2026.05.15-215207",
         "action": "push",
@@ -135,7 +149,6 @@
         "action": "localSave",
         "at": "2026-05-15T18:50:45.956Z",
         "sha": "83e41f7d2436441a7cfc07e1ff216a0ee70efd24",
-        "author": "denis",
         "message": "Saved locally by denis"
       },
       {
