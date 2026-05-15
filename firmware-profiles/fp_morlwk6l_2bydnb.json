@@ -2,7 +2,7 @@
   "id": "fp_morlwk6l_2bydnb",
   "name": "YandexName",
   "platform": "yandex",
-  "version": "2026-05-07 22:05",
+  "version": "2026-05-15 19:29",
   "sizeGroups": [
     {
       "id": "sg_morlwk6l_pgftt5",
@@ -12,6 +12,18 @@
         {
           "width": 300,
           "height": 250
+        },
+        {
+          "width": 300,
+          "height": 300
+        },
+        {
+          "width": 240,
+          "height": 400
+        },
+        {
+          "width": 300,
+          "height": 600
         }
       ],
       "widthFluidHeightsPx": [],
@@ -94,11 +106,33 @@
     }
   ],
   "createdAt": "2026-05-04T19:42:44.013Z",
-  "updatedAt": "2026-05-07T19:05:07.105Z",
+  "updatedAt": "2026-05-15T16:29:51.361Z",
   "sync": {
     "profileId": "fp_morlwk6l_2bydnb",
-    "version": "2026.05.15-192643",
+    "version": "2026.05.15-194400",
+    "sha": "47023a3db430bd9b2da26e863643fea9f5a3b28d",
     "history": [
+      {
+        "version": "2026.05.15-194400",
+        "action": "push",
+        "at": "2026-05-15T16:44:00.457Z",
+        "sha": "47023a3db430bd9b2da26e863643fea9f5a3b28d",
+        "message": "Pushed to GitHub"
+      },
+      {
+        "version": "2026.05.15-192951",
+        "action": "localSave",
+        "at": "2026-05-15T16:29:51.361Z",
+        "sha": "47023a3db430bd9b2da26e863643fea9f5a3b28d",
+        "message": "Local changes saved"
+      },
+      {
+        "version": "2026.05.15-192643",
+        "action": "push",
+        "at": "2026-05-15T16:26:44.247Z",
+        "sha": "47023a3db430bd9b2da26e863643fea9f5a3b28d",
+        "message": "Pushed by denis"
+      },
       {
         "version": "2026.05.15-192643",
         "action": "push",
