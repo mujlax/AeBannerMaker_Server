@@ -54,8 +54,34 @@
         "adaptive_mp71889d_z3rx87"
       ],
       "profileId": "fp_morlwk6l_2bydnb"
+    },
+    {
+      "id": "adaptive_mp72d7dw_kgr31x",
+      "role": "adaptive",
+      "x": 312,
+      "y": 228,
+      "label": "Adaptive 2",
+      "adaptiveMode": "widthFluid",
+      "fluidWidth": 300,
+      "fluidHeight": 250,
+      "connectedFrameIds": [],
+      "connectedFrameSettings": {}
     }
   ],
-  "selectedFrameId": "adaptive_mp71889d_z3rx87",
-  "updatedAt": "2026-05-15T15:12:02.321Z"
+  "selectedFrameId": "adaptive_mp72d7dw_kgr31x",
+  "updatedAt": "2026-05-15T15:20:08.373Z",
+  "sync": {
+    "projectId": "ae_banner_maer-e3a23a51",
+    "version": "2026.05.15-181905",
+    "sha": "bbfe08534f35bb9ca4776925d65ca2710e46710d",
+    "history": [
+      {
+        "version": "2026.05.15-181905",
+        "action": "push",
+        "at": "2026-05-15T15:19:06.159Z",
+        "sha": "bbfe08534f35bb9ca4776925d65ca2710e46710d",
+        "message": "Pushed to GitHub"
+      }
+    ]
+  }
 }
