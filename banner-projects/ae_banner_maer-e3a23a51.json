@@ -2,127 +2,32 @@
   "schemaVersion": 1,
   "projectMeta": {
     "schemaVersion": 1,
-    "projectPath": "/Users/deniszablincev/Downloads/temp2222/temp_preoject.aep",
-    "projectName": "temp_preoject",
-    "lastOpenedAt": "2026-05-15T18:52:15.816Z"
+    "projectPath": "/Users/deniszablincev/Documents/_2026/AeBannerMaker/AE/AE_Banner_Maer.aep",
+    "projectName": "ae_banner_maer",
+    "lastOpenedAt": "2026-05-29T09:20:33.848Z"
   },
-  "frames": [
-    {
-      "id": "content_mp7184nz_615k12",
-      "x": 24,
-      "y": 24,
-      "label": "300x250",
-      "role": "content",
-      "compRef": {
-        "itemId": 1,
-        "name": "300x250",
-        "width": 300,
-        "height": 260,
-        "duration": 10,
-        "frameRate": 30,
-        "folderPath": [],
-        "folderKey": "",
-        "folderLabel": "Banners"
-      },
-      "missing": false
-    },
-    {
-      "id": "adaptive_mp71889d_z3rx87",
-      "x": 312,
-      "y": 36,
-      "label": "Adaptive 1",
-      "role": "adaptive",
-      "adaptiveMode": "widthFluid",
-      "fluidWidth": 300,
-      "fluidHeight": 250,
-      "connectedFrameIds": [
-        "content_mp7184nz_615k12"
-      ],
-      "connectedFrameSettings": {
-        "content_mp7184nz_615k12": {
-          "resizeMode": "center"
-        }
-      }
-    },
-    {
-      "id": "firmware_mp718c7n_jp7rr7",
-      "x": 588,
-      "y": 84,
-      "label": "Firmware 1",
-      "role": "firmware",
-      "connectedFrameIds": [
-        "adaptive_mp71889d_z3rx87"
-      ],
-      "profileId": "fp_morlwk6l_2bydnb"
-    },
-    {
-      "id": "adaptive_mp72d7dw_kgr31x",
-      "x": 360,
-      "y": 252,
-      "label": "Adaptive 2",
-      "role": "adaptive",
-      "adaptiveMode": "widthFluid",
-      "fluidWidth": 300,
-      "fluidHeight": 250,
-      "connectedFrameIds": [],
-      "connectedFrameSettings": {}
-    },
-    {
-      "id": "adaptive_mp734y83_2nfxf2",
-      "x": 84,
-      "y": 300,
-      "label": "Adaptive 3",
-      "role": "adaptive",
-      "adaptiveMode": "widthFluid",
-      "fluidWidth": 300,
-      "fluidHeight": 250,
-      "connectedFrameIds": [],
-      "connectedFrameSettings": {}
-    },
-    {
-      "id": "adaptive_mp73ik7u_ojvxvf",
-      "x": 276,
-      "y": 456,
-      "label": "Adaptive 4",
-      "role": "adaptive",
-      "adaptiveMode": "widthFluid",
-      "fluidWidth": 300,
-      "fluidHeight": 250,
-      "connectedFrameIds": [],
-      "connectedFrameSettings": {}
-    },
-    {
-      "id": "adaptive_mp79w0uk_s2hgqb",
-      "x": 184,
-      "y": 148,
-      "label": "Adaptive 5",
-      "role": "adaptive",
-      "adaptiveMode": "widthFluid",
-      "fluidWidth": 300,
-      "fluidHeight": 250,
-      "connectedFrameIds": [],
-      "connectedFrameSettings": {}
-    },
-    {
-      "id": "adaptive_mp79w1nq_gnbf4d",
-      "x": 208,
-      "y": 166,
-      "label": "Adaptive 6",
-      "role": "adaptive",
-      "adaptiveMode": "widthFluid",
-      "fluidWidth": 300,
-      "fluidHeight": 250,
-      "connectedFrameIds": [],
-      "connectedFrameSettings": {}
-    }
-  ],
-  "selectedFrameId": "adaptive_mp79w1nq_gnbf4d",
-  "updatedAt": "2026-05-15T18:52:15.816Z",
+  "frames": [],
+  "selectedFrameId": null,
+  "updatedAt": "2026-05-29T09:20:33.858Z",
   "sync": {
     "projectId": "ae_banner_maer-e3a23a51",
-    "version": "2026.05.15-215248",
-    "sha": "6f4520cffafcf4ed777ff15a1b0526bf71f70816",
+    "version": "2026.05.29-122033",
+    "sha": "e4f3341332294d39c4cf732f50c3198ceddd24da",
     "history": [
+      {
+        "version": "2026.05.29-122033",
+        "action": "push",
+        "at": "2026-05-29T09:20:34.311Z",
+        "sha": "e4f3341332294d39c4cf732f50c3198ceddd24da",
+        "message": "Pushed to GitHub"
+      },
+      {
+        "version": "2026.05.15-215248",
+        "action": "pull",
+        "at": "2026-05-29T09:20:07.728Z",
+        "sha": "e4f3341332294d39c4cf732f50c3198ceddd24da",
+        "message": "Pulled from GitHub"
+      },
       {
         "version": "2026.05.15-215248",
         "action": "push",
@@ -135,7 +40,6 @@
         "action": "push",
         "at": "2026-05-15T18:52:43.914Z",
         "sha": "6f4520cffafcf4ed777ff15a1b0526bf71f70816",
-        "author": "denis",
         "message": "Pushed by denis"
       },
       {
