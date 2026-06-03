@@ -1,0 +1,55 @@
+{
+  "id": "fp_mpwebll6_5jtpi6",
+  "name": "VK_Ads",
+  "platform": "VK_Ads",
+  "version": "2026-06-02 12:10",
+  "sizeGroups": [
+    {
+      "id": "sg_mpwebll7_mcqcue",
+      "label": "Static sizes",
+      "sizeMode": "static",
+      "sizes": [
+        {
+          "width": 300,
+          "height": 250
+        }
+      ],
+      "widthFluidHeightsPx": [],
+      "heightFluidWidthsPx": [],
+      "clickWrapper": {
+        "openTag": "<a href=\"%link1%\" target=\"_blank\">",
+        "closeTag": "</a>",
+        "outlineColor": ""
+      },
+      "headHtml": "",
+      "bodyHtmlBeforeClose": "",
+      "validation": {
+        "maxIndexHtmlBytes": 61440,
+        "maxIndexJsBytes": 307200,
+        "maxTotalBytes": 153600
+      },
+      "optimizeJsOnExport": true,
+      "optimizeImagesOnExport": true,
+      "inlineJsInHtml": false,
+      "inlineImagesInJs": false,
+      "inlineCssInHtml": false,
+      "clickFrameEnabled": false,
+      "borderEnabled": false,
+      "borderColor": "#000000"
+    }
+  ],
+  "createdAt": "2026-06-02T08:49:01.962Z",
+  "updatedAt": "2026-06-02T09:10:26.847Z",
+  "sync": {
+    "profileId": "fp_mpwebll6_5jtpi6",
+    "version": "2026.06.03-122537",
+    "history": [
+      {
+        "version": "2026.06.03-122537",
+        "action": "push",
+        "at": "2026-06-03T09:25:37.745Z",
+        "message": "Pushed to GitHub"
+      }
+    ]
+  }
+}
