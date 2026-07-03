@@ -1,0 +1,88 @@
+{
+  "id": "fp_mr51div7_secosz",
+  "name": "AdFox",
+  "platform": "AdFox",
+  "version": "2026-07-03 17:49",
+  "sizeGroups": [
+    {
+      "id": "sg_mr51div8_6x4se2",
+      "label": "Static sizes",
+      "sizeMode": "static",
+      "sizes": [
+        {
+          "width": 300,
+          "height": 250
+        }
+      ],
+      "widthFluidHeightsPx": [],
+      "heightFluidWidthsPx": [],
+      "clickWrapper": {
+        "openTag": "<a href=\"%banner.reference_mrc_user1%\" target=\"%banner.target%\">",
+        "closeTag": "</a>"
+      },
+      "headHtml": "",
+      "bodyHtmlBeforeClose": "",
+      "validation": {
+        "maxIndexHtmlBytes": 66560,
+        "maxIndexJsBytes": 307200,
+        "maxTotalBytes": 1024000
+      },
+      "optimizeJsOnExport": true,
+      "optimizeImagesOnExport": true,
+      "inlineJsInHtml": false,
+      "inlineImagesInJs": false,
+      "inlineCssInHtml": false,
+      "clickFrameEnabled": false,
+      "borderEnabled": false,
+      "borderColor": "#000000"
+    },
+    {
+      "id": "sg_mr51tz9i_ljkrcx",
+      "label": "Adaptive",
+      "sizeMode": "widthFluid",
+      "sizes": [
+        {
+          "width": 300,
+          "height": 250
+        }
+      ],
+      "widthFluidHeightsPx": [
+        250
+      ],
+      "heightFluidWidthsPx": [],
+      "clickWrapper": {
+        "openTag": "<a href=\"%banner.reference_mrc_user1%\" target=\"%banner.target%\">",
+        "closeTag": "</a>"
+      },
+      "headHtml": "",
+      "bodyHtmlBeforeClose": "",
+      "validation": {
+        "maxIndexHtmlBytes": 66560,
+        "maxIndexJsBytes": 307200,
+        "maxTotalBytes": 1024000
+      },
+      "optimizeJsOnExport": true,
+      "optimizeImagesOnExport": true,
+      "inlineJsInHtml": false,
+      "inlineImagesInJs": false,
+      "inlineCssInHtml": false,
+      "clickFrameEnabled": false,
+      "borderEnabled": false,
+      "borderColor": "#000000"
+    }
+  ],
+  "createdAt": "2026-07-03T14:36:14.659Z",
+  "updatedAt": "2026-07-03T14:49:30.418Z",
+  "sync": {
+    "profileId": "fp_mr51div7_secosz",
+    "version": "2026.07.03-175533",
+    "history": [
+      {
+        "version": "2026.07.03-175533",
+        "action": "push",
+        "at": "2026-07-03T14:55:33.511Z",
+        "message": "Pushed to GitHub"
+      }
+    ]
+  }
+}
