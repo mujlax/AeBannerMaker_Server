@@ -2,7 +2,7 @@
   "id": "fp_mr51div7_secosz",
   "name": "AdFox",
   "platform": "AdFox",
-  "version": "2026-07-03 17:49",
+  "version": "2026-07-03 17:56",
   "sizeGroups": [
     {
       "id": "sg_mr51div8_6x4se2",
@@ -72,16 +72,25 @@
     }
   ],
   "createdAt": "2026-07-03T14:36:14.659Z",
-  "updatedAt": "2026-07-03T14:49:30.418Z",
+  "updatedAt": "2026-07-03T14:56:05.501Z",
   "sync": {
     "profileId": "fp_mr51div7_secosz",
-    "version": "2026.07.03-175533",
+    "version": "2026.07.03-175617",
+    "sha": "588ac32bb89aeabcf45b7c2ae4b2d1680688e46a",
     "history": [
       {
-        "version": "2026.07.03-175533",
+        "version": "2026.07.03-175617",
         "action": "push",
-        "at": "2026-07-03T14:55:33.511Z",
+        "at": "2026-07-03T14:56:17.758Z",
+        "sha": "588ac32bb89aeabcf45b7c2ae4b2d1680688e46a",
         "message": "Pushed to GitHub"
+      },
+      {
+        "version": "2026.07.03-175605",
+        "action": "localSave",
+        "at": "2026-07-03T14:56:05.501Z",
+        "sha": "588ac32bb89aeabcf45b7c2ae4b2d1680688e46a",
+        "message": "Local changes saved"
       }
     ]
   }
