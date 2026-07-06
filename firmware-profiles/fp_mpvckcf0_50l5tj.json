@@ -1,0 +1,51 @@
+{
+  "id": "fp_mpvckcf0_50l5tj",
+  "name": "New firmware",
+  "platform": "default",
+  "version": "2026-06-01 18:12",
+  "sizeGroups": [
+    {
+      "id": "sg_mpvckcf0_hnzb1f",
+      "label": "Static sizes",
+      "sizeMode": "static",
+      "sizes": [
+        {
+          "width": 300,
+          "height": 250
+        }
+      ],
+      "widthFluidHeightsPx": [],
+      "heightFluidWidthsPx": [],
+      "clickWrapper": {
+        "openTag": "",
+        "closeTag": "",
+        "outlineColor": ""
+      },
+      "headHtml": "",
+      "bodyHtmlBeforeClose": "",
+      "validation": {},
+      "optimizeJsOnExport": true,
+      "optimizeImagesOnExport": true,
+      "inlineJsInHtml": false,
+      "inlineImagesInJs": false,
+      "inlineCssInHtml": false,
+      "clickFrameEnabled": false,
+      "borderEnabled": true,
+      "borderColor": "#000000"
+    }
+  ],
+  "createdAt": "2026-06-01T15:12:04.572Z",
+  "updatedAt": "2026-06-01T15:12:25.866Z",
+  "sync": {
+    "profileId": "fp_mpvckcf0_50l5tj",
+    "version": "2026.07.06-121542",
+    "history": [
+      {
+        "version": "2026.07.06-121542",
+        "action": "push",
+        "at": "2026-07-06T09:15:42.028Z",
+        "message": "Pushed to GitHub"
+      }
+    ]
+  }
+}
