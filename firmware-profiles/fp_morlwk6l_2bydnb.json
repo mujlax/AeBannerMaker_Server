@@ -1,8 +1,8 @@
 {
   "id": "fp_morlwk6l_2bydnb",
-  "name": "YandexName",
+  "name": "YandexFantech",
   "platform": "yandex",
-  "version": "2026-05-15 19:29",
+  "version": "2026-07-09 13:06",
   "sizeGroups": [
     {
       "id": "sg_morlwk6l_pgftt5",
@@ -29,61 +29,46 @@
       "widthFluidHeightsPx": [],
       "heightFluidWidthsPx": [],
       "clickWrapper": {
-        "openTag": "<a href=\"yandex.ru\">",
+        "openTag": "<a id=\"click_area\" href=\"#\" target=\"_blank\">",
         "closeTag": "</a>",
         "outlineColor": ""
       },
-      "headHtml": "test",
-      "bodyHtmlBeforeClose": "testBefore",
+      "headHtml": "",
+      "bodyHtmlBeforeClose": "<script>document.getElementById(\"click_area\").href = yandexHTML5BannerApi.getClickURLNum(1);</script>\n",
       "validation": {
-        "maxIndexHtmlBytes": 1024000,
-        "maxIndexJsBytes": 1024000,
-        "maxTotalBytes": 1024000
+        "maxIndexHtmlBytes": 66560,
+        "maxIndexJsBytes": 307200,
+        "maxTotalBytes": 153600
       },
       "optimizeJsOnExport": true,
-      "optimizeImagesOnExport": false,
+      "optimizeImagesOnExport": true,
+      "inlineJsInHtml": false,
+      "inlineImagesInJs": false,
+      "inlineCssInHtml": false,
       "clickFrameEnabled": false,
-      "borderEnabled": true,
-      "borderColor": "#000000"
+      "borderEnabled": false,
+      "borderColor": "#d4d4d4"
     },
     {
-      "id": "sg_morm6tzv_x46pbb",
-      "label": "Static sizes 512",
-      "sizeMode": "static",
-      "sizes": [
-        {
-          "width": 512,
-          "height": 512
-        }
-      ],
-      "widthFluidHeightsPx": [],
-      "heightFluidWidthsPx": [],
-      "clickWrapper": {
-        "openTag": "<div class=\"aaa\"</div>",
-        "closeTag": "</div>",
-        "outlineColor": ""
-      },
-      "headHtml": "aaa",
-      "bodyHtmlBeforeClose": "tstatsas",
-      "validation": {
-        "maxIndexHtmlBytes": 204800,
-        "maxIndexJsBytes": 204800,
-        "maxTotalBytes": 204800
-      },
-      "optimizeJsOnExport": true,
-      "optimizeImagesOnExport": false,
-      "clickFrameEnabled": false,
-      "borderEnabled": true,
-      "borderColor": "#000000"
-    },
-    {
-      "id": "sg_motv92p9_wwk1ay",
+      "id": "sg_mrdcan6w_oadxgx",
       "label": "Adaptive",
       "sizeMode": "widthFluid",
       "sizes": [
         {
           "width": 300,
           "height": 250
+        },
+        {
+          "width": 300,
+          "height": 300
+        },
+        {
+          "width": 240,
+          "height": 400
+        },
+        {
+          "width": 300,
+          "height": 600
         }
       ],
       "widthFluidHeightsPx": [
@@ -91,27 +76,55 @@
       ],
       "heightFluidWidthsPx": [],
       "clickWrapper": {
-        "openTag": "",
-        "closeTag": "",
+        "openTag": "<a id=\"click_area\" href=\"#\" target=\"_blank\">",
+        "closeTag": "</a>",
         "outlineColor": ""
       },
       "headHtml": "",
-      "bodyHtmlBeforeClose": "",
-      "validation": {},
-      "optimizeJsOnExport": false,
-      "optimizeImagesOnExport": false,
+      "bodyHtmlBeforeClose": "<script>document.getElementById(\"click_area\").href = yandexHTML5BannerApi.getClickURLNum(1);</script>\n",
+      "validation": {
+        "maxIndexHtmlBytes": 66560,
+        "maxIndexJsBytes": 307200,
+        "maxTotalBytes": 256000
+      },
+      "optimizeJsOnExport": true,
+      "optimizeImagesOnExport": true,
+      "inlineJsInHtml": false,
+      "inlineImagesInJs": false,
+      "inlineCssInHtml": false,
       "clickFrameEnabled": false,
-      "borderEnabled": true,
-      "borderColor": "#000000"
+      "borderEnabled": false,
+      "borderColor": "#d4d4d4"
     }
   ],
   "createdAt": "2026-05-04T19:42:44.013Z",
-  "updatedAt": "2026-05-15T16:29:51.361Z",
+  "updatedAt": "2026-07-09T10:06:09.023Z",
   "sync": {
     "profileId": "fp_morlwk6l_2bydnb",
-    "version": "2026.05.15-194400",
-    "sha": "47023a3db430bd9b2da26e863643fea9f5a3b28d",
+    "version": "2026.08.05-130858",
+    "sha": "a32eb6160a0bb372e8f299613467a7580d20f245",
     "history": [
+      {
+        "version": "2026.08.05-130858",
+        "action": "push",
+        "at": "2026-08-05T10:08:58.190Z",
+        "sha": "a32eb6160a0bb372e8f299613467a7580d20f245",
+        "message": "Pushed to GitHub"
+      },
+      {
+        "version": "2026.07.09-130609",
+        "action": "localSave",
+        "at": "2026-07-09T10:06:09.024Z",
+        "sha": "a32eb6160a0bb372e8f299613467a7580d20f245",
+        "message": "Local changes saved"
+      },
+      {
+        "version": "2026.05.15-194400",
+        "action": "pull",
+        "at": "2026-06-03T09:25:52.054Z",
+        "sha": "a32eb6160a0bb372e8f299613467a7580d20f245",
+        "message": "Pulled from GitHub"
+      },
       {
         "version": "2026.05.15-194400",
         "action": "push",
