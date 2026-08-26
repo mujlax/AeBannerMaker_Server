@@ -2,7 +2,7 @@
   "id": "fp_mpwebll6_5jtpi6",
   "name": "VK_Ads",
   "platform": "VK_Ads",
-  "version": "2026-08-05 13:08",
+  "version": "2026-08-26 17:02",
   "sizeGroups": [
     {
       "id": "sg_mpwebll7_mcqcue",
@@ -71,15 +71,73 @@
       "clickFrameEnabled": false,
       "borderEnabled": false,
       "borderColor": "#000000"
+    },
+    {
+      "id": "sg_mta5xyg7_pw51b8",
+      "label": "Static sizes copy copy",
+      "sizeMode": "heightFluid",
+      "sizes": [
+        {
+          "width": 300,
+          "height": 250
+        }
+      ],
+      "widthFluidHeightsPx": [
+        90
+      ],
+      "heightFluidWidthsPx": [
+        240
+      ],
+      "clickWrapper": {
+        "openTag": "<a href=\"%link1%\" target=\"_blank\">",
+        "closeTag": "</a>",
+        "outlineColor": ""
+      },
+      "headHtml": "",
+      "bodyHtmlBeforeClose": "",
+      "validation": {
+        "maxIndexHtmlBytes": 61440,
+        "maxIndexJsBytes": 307200,
+        "maxTotalBytes": 153600
+      },
+      "optimizeJsOnExport": true,
+      "optimizeImagesOnExport": true,
+      "inlineJsInHtml": false,
+      "inlineImagesInJs": false,
+      "inlineCssInHtml": false,
+      "clickFrameEnabled": false,
+      "borderEnabled": false,
+      "borderColor": "#000000"
     }
   ],
   "createdAt": "2026-06-02T08:49:01.962Z",
-  "updatedAt": "2026-08-05T10:08:35.881Z",
+  "updatedAt": "2026-08-26T14:02:40.246Z",
   "sync": {
     "profileId": "fp_mpwebll6_5jtpi6",
-    "version": "2026.08.05-130847",
-    "sha": "8a931aaf370ead61fa890a640ad20f4d237da764",
+    "version": "2026.08.26-170255",
+    "sha": "3a731f9ef64a6cdaa9981858c7cf322a8aa78659",
     "history": [
+      {
+        "version": "2026.08.26-170255",
+        "action": "push",
+        "at": "2026-08-26T14:02:55.268Z",
+        "sha": "3a731f9ef64a6cdaa9981858c7cf322a8aa78659",
+        "message": "Pushed to GitHub"
+      },
+      {
+        "version": "2026.08.26-170240",
+        "action": "localSave",
+        "at": "2026-08-26T14:02:40.248Z",
+        "sha": "3a731f9ef64a6cdaa9981858c7cf322a8aa78659",
+        "message": "Local changes saved"
+      },
+      {
+        "version": "2026.08.05-130847",
+        "action": "push",
+        "at": "2026-08-05T10:08:48.928Z",
+        "sha": "3a731f9ef64a6cdaa9981858c7cf322a8aa78659",
+        "message": "Pushed to GitHub"
+      },
       {
         "version": "2026.08.05-130847",
         "action": "push",
