@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "0.1.1",
+      "date": "2026-09-30",
+      "changes": [
+        "Added update checks, release notes, version downloads and skip-version controls in Settings.",
+        "Added automatic versioning and GitHub release packaging with npm run release.",
+        "Fixed Sticky Shape offset export for scaled layers.",
+        "Fixed rectangular layer masks and grouped temporary export actions into one Undo step.",
+        "Fixed TinyPNG key failover when a key reaches its compression limit."
+      ],
+      "downloadUrl": "https://github.com/mujlax/AeBannerMaker_Server/releases/download/v0.1.1/AeBannerMaker_0.1.1.zip"
+    }
+  ]
+}
