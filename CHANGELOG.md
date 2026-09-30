@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 0.1.2
+
+- Added macOS and Windows installers with development checkout protection and rollback on installation errors.
+
 ## 0.1.1
 
 - Added update checks, release notes, version downloads and skip-version controls in Settings.

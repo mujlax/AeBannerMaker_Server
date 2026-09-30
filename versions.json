@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "version": "0.1.2",
+      "date": "2026-09-30",
+      "changes": [
+        "Added macOS and Windows installers with development checkout protection and rollback on installation errors."
+      ],
+      "downloadUrl": "https://github.com/mujlax/AeBannerMaker_Server/releases/download/v0.1.2/AeBannerMaker_0.1.2.zip"
+    },
+    {
       "version": "0.1.1",
       "date": "2026-09-30",
       "changes": [
