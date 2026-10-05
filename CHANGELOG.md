@@ -2,6 +2,15 @@
 
 ## Unreleased
 
+## 0.1.4
+
+- Moved the shared GitHub connection settings to Settings → Sync, with labeled repository and token fields, token visibility controls, and advanced folder settings.
+- Added copying and pasting of complete sync settings, including the GitHub token, with format validation and manual clipboard fallbacks for CEP.
+- Added a dismissible sync setup reminder on each panel launch until configured, setup badges, and direct settings links from Project Sync and Firmware Sync.
+- Separated saved-settings feedback from repository connection checks and prevented sync operations before setup.
+
+- Preserved rotated Sticky Shape contours and offset animation instead of replacing them with an enlarged bounding rectangle.
+
 ## 0.1.3
 
 - Updated the panel layout with board side panels, a reorganized tools dock and clearer tool controls.
