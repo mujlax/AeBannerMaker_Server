@@ -2,6 +2,11 @@
 
 ## Unreleased
 
+## 0.1.6
+
+- Fixed Sticky Shape drifting during Position and Rotation animation under rectangle parents in HTML export and preview, regardless of layer order.
+- Removed duplicate parent animation tracks while preserving easing, hold interpolation, and Sticky offset animation.
+
 ## 0.1.5
 
 - Fixed loopOut cycle and pingpong animation in HTML export and preview when keyframes are outside the composition timeline, preserving original key times, values, easing, and loop phase.

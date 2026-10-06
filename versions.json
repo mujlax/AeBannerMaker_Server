@@ -1,6 +1,15 @@
 {
   "versions": [
     {
+      "version": "0.1.6",
+      "date": "2026-10-06",
+      "changes": [
+        "Fixed Sticky Shape drifting during Position and Rotation animation under rectangle parents in HTML export and preview, regardless of layer order.",
+        "Removed duplicate parent animation tracks while preserving easing, hold interpolation, and Sticky offset animation."
+      ],
+      "downloadUrl": "https://github.com/mujlax/AeBannerMaker_Server/releases/download/v0.1.6/AeBannerMaker_0.1.6.zip"
+    },
+    {
       "version": "0.1.5",
       "date": "2026-10-06",
       "changes": [
