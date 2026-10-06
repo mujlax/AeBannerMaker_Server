@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 0.1.5
+
+- Fixed loopOut cycle and pingpong animation in HTML export and preview when keyframes are outside the composition timeline, preserving original key times, values, easing, and loop phase.
+
 ## 0.1.4
 
 - Moved the shared GitHub connection settings to Settings → Sync, with labeled repository and token fields, token visibility controls, and advanced folder settings.

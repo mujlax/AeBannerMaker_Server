@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "version": "0.1.5",
+      "date": "2026-10-06",
+      "changes": [
+        "Fixed loopOut cycle and pingpong animation in HTML export and preview when keyframes are outside the composition timeline, preserving original key times, values, easing, and loop phase."
+      ],
+      "downloadUrl": "https://github.com/mujlax/AeBannerMaker_Server/releases/download/v0.1.5/AeBannerMaker_0.1.5.zip"
+    },
+    {
       "version": "0.1.4",
       "date": "2026-10-05",
       "changes": [
