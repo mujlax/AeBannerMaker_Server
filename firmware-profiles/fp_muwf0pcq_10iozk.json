@@ -1,0 +1,88 @@
+{
+  "id": "fp_muwf0pcq_10iozk",
+  "name": "Google",
+  "platform": "Google",
+  "version": "2026-10-06 11:29",
+  "sizeGroups": [
+    {
+      "id": "sg_muwf0pcq_crfqyo",
+      "label": "Static sizes",
+      "sizeMode": "static",
+      "sizes": [
+        {
+          "width": 300,
+          "height": 250
+        }
+      ],
+      "widthFluidHeightsPx": [],
+      "heightFluidWidthsPx": [],
+      "clickWrapper": {
+        "openTag": "",
+        "closeTag": ""
+      },
+      "headHtml": "",
+      "bodyHtmlBeforeClose": "",
+      "validation": {
+        "maxIndexHtmlBytes": 51200,
+        "maxIndexJsBytes": 307200,
+        "maxTotalBytes": 153600
+      },
+      "optimizeJsOnExport": true,
+      "optimizeImagesOnExport": true,
+      "inlineJsInHtml": false,
+      "inlineImagesInJs": false,
+      "inlineCssInHtml": false,
+      "clickFrameEnabled": false,
+      "borderEnabled": true,
+      "borderColor": "#c7c7c7"
+    },
+    {
+      "id": "sg_muwf396v_ka9e04",
+      "label": "Static sizes copy",
+      "sizeMode": "widthFluid",
+      "sizes": [
+        {
+          "width": 300,
+          "height": 250
+        }
+      ],
+      "widthFluidHeightsPx": [
+        200
+      ],
+      "heightFluidWidthsPx": [],
+      "clickWrapper": {
+        "openTag": "",
+        "closeTag": ""
+      },
+      "headHtml": "",
+      "bodyHtmlBeforeClose": "",
+      "validation": {
+        "maxIndexHtmlBytes": 51200,
+        "maxIndexJsBytes": 307200,
+        "maxTotalBytes": 153600
+      },
+      "optimizeJsOnExport": true,
+      "optimizeImagesOnExport": true,
+      "inlineJsInHtml": false,
+      "inlineImagesInJs": false,
+      "inlineCssInHtml": false,
+      "clickFrameEnabled": false,
+      "borderEnabled": true,
+      "borderColor": "#c7c7c7"
+    }
+  ],
+  "createdAt": "2026-10-06T08:27:04.922Z",
+  "updatedAt": "2026-10-06T08:29:22.495Z",
+  "sync": {
+    "profileId": "fp_muwf0pcq_10iozk",
+    "version": "2026.10.06-112936",
+    "history": [
+      {
+        "version": "2026.10.06-112936",
+        "action": "push",
+        "at": "2026-10-06T08:29:36.952Z",
+        "message": "Pushed to GitHub"
+      }
+    ]
+  }
+}
