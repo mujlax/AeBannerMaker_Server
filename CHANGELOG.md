@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 0.1.7
+
+- Included bundled TinyPNG keys in release archives and both installers so image optimization works on fresh installations.
+
 ## 0.1.6
 
 - Fixed Sticky Shape drifting during Position and Rotation animation under rectangle parents in HTML export and preview, regardless of layer order.

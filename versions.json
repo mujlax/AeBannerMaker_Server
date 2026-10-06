@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "version": "0.1.7",
+      "date": "2026-10-06",
+      "changes": [
+        "Included bundled TinyPNG keys in release archives and both installers so image optimization works on fresh installations."
+      ],
+      "downloadUrl": "https://github.com/mujlax/AeBannerMaker_Server/releases/download/v0.1.7/AeBannerMaker_0.1.7.zip"
+    },
+    {
       "version": "0.1.6",
       "date": "2026-10-06",
       "changes": [
