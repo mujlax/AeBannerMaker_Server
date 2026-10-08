@@ -2,7 +2,7 @@
   "id": "fp_muwf0pcq_10iozk",
   "name": "Google",
   "platform": "Google",
-  "version": "2026-10-06 11:29",
+  "version": "2026-10-08 17:32",
   "sizeGroups": [
     {
       "id": "sg_muwf0pcq_crfqyo",
@@ -17,10 +17,10 @@
       "widthFluidHeightsPx": [],
       "heightFluidWidthsPx": [],
       "clickWrapper": {
-        "openTag": "",
-        "closeTag": ""
+        "openTag": "<a href=\"javascript:window.open(window.clickTag)\">",
+        "closeTag": "</a>"
       },
-      "headHtml": "",
+      "headHtml": "<script type=\"text/javascript\">\nvar clickTag = \"http://www.google.com\"; </script>",
       "bodyHtmlBeforeClose": "",
       "validation": {
         "maxIndexHtmlBytes": 51200,
@@ -51,10 +51,10 @@
       ],
       "heightFluidWidthsPx": [],
       "clickWrapper": {
-        "openTag": "",
-        "closeTag": ""
+        "openTag": "<a href=\"javascript:window.open(window.clickTag)\">",
+        "closeTag": "</a>"
       },
-      "headHtml": "",
+      "headHtml": "<script type=\"text/javascript\">\nvar clickTag = \"http://www.google.com\"; </script>",
       "bodyHtmlBeforeClose": "",
       "validation": {
         "maxIndexHtmlBytes": 51200,
@@ -72,11 +72,47 @@
     }
   ],
   "createdAt": "2026-10-06T08:27:04.922Z",
-  "updatedAt": "2026-10-06T08:29:22.495Z",
+  "updatedAt": "2026-10-08T14:32:08.912Z",
   "sync": {
     "profileId": "fp_muwf0pcq_10iozk",
-    "version": "2026.10.06-112936",
+    "version": "2026.10.08-173223",
+    "sha": "f36093f1c53262df1989082bf249dac60f34676a",
     "history": [
+      {
+        "version": "2026.10.08-173223",
+        "action": "push",
+        "at": "2026-10-08T14:32:23.551Z",
+        "sha": "f36093f1c53262df1989082bf249dac60f34676a",
+        "message": "Pushed to GitHub"
+      },
+      {
+        "version": "2026.10.08-173208",
+        "action": "localSave",
+        "at": "2026-10-08T14:32:08.912Z",
+        "sha": "f36093f1c53262df1989082bf249dac60f34676a",
+        "message": "Local changes saved"
+      },
+      {
+        "version": "2026.10.08-173208",
+        "action": "localSave",
+        "at": "2026-10-08T14:32:08.740Z",
+        "sha": "f36093f1c53262df1989082bf249dac60f34676a",
+        "message": "Local changes saved"
+      },
+      {
+        "version": "2026.10.08-173208",
+        "action": "localSave",
+        "at": "2026-10-08T14:32:08.337Z",
+        "sha": "f36093f1c53262df1989082bf249dac60f34676a",
+        "message": "Local changes saved"
+      },
+      {
+        "version": "2026.10.06-112936",
+        "action": "push",
+        "at": "2026-10-06T08:29:38.198Z",
+        "sha": "f36093f1c53262df1989082bf249dac60f34676a",
+        "message": "Pushed to GitHub"
+      },
       {
         "version": "2026.10.06-112936",
         "action": "push",
