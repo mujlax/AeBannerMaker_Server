@@ -2,6 +2,13 @@
 
 ## Unreleased
 
+## 0.1.8
+
+- Added Crop and Width tools for export-time image cropping and fixed pixel widths, preserving layer geometry and animation in export and preview.
+- Preserve prepared PNG/JPEG bytes and distinct crop/resize variants through asset normalization, adaptive export, ZIP packaging and size accounting.
+- Added independent horizontal/vertical Position Strength and maximum composition dimensions for adaptive position and scale constraints in AE, HTML and firmware CSS exports.
+- Preserve rotated Sticky Shape contours and sample evaluated offset geometry when it cannot be represented by rectangle animation tracks.
+
 ## 0.1.7
 
 - Included bundled TinyPNG keys in release archives and both installers so image optimization works on fresh installations.
