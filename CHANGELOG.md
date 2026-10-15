@@ -2,6 +2,11 @@
 
 ## Unreleased
 
+## 0.1.9
+
+- Added composition selection by folder with Select all, Clear selection, and bulk Add selected actions.
+- Preserve collapsed composition groups, individual selections, and scroll position across panel refreshes; reset selection when switching projects.
+
 ## 0.1.8
 
 - Added Crop and Width tools for export-time image cropping and fixed pixel widths, preserving layer geometry and animation in export and preview.

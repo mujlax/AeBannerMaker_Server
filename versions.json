@@ -1,6 +1,15 @@
 {
   "versions": [
     {
+      "version": "0.1.9",
+      "date": "2026-10-15",
+      "changes": [
+        "Added composition selection by folder with Select all, Clear selection, and bulk Add selected actions.",
+        "Preserve collapsed composition groups, individual selections, and scroll position across panel refreshes; reset selection when switching projects."
+      ],
+      "downloadUrl": "https://github.com/mujlax/AeBannerMaker_Server/releases/download/v0.1.9/AeBannerMaker_0.1.9.zip"
+    },
+    {
       "version": "0.1.8",
       "date": "2026-10-12",
       "changes": [
