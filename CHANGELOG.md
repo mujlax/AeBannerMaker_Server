@@ -2,6 +2,15 @@
 
 ## Unreleased
 
+## 0.1.10
+
+- Added JPG atlases for opaque images and PNG atlases for transparent images across normal/adaptive exports, JS/CSS previews and firmware releases, preserving layer geometry, masks, effects and animation.
+- Added project atlas settings and firmware size-group overrides with Off/Auto/Always modes, adjustable JPG quality, complete ZIP size comparison and safe fallback to separate images.
+- Optimize only completed atlas pages through TinyPNG when atlases are used; skip source-image requests, cache successful compression and optimize individual images only when exporting separate files.
+- Added browser preview controls for local atlas rebuilding, TinyPNG image/atlas compression, Terser JS minification, original/result comparison and ZIP downloads matching the displayed version.
+- Preserve compound AE fills and even-odd holes in JS/CSS exports, including independent contour animation inside shared SVG paths.
+- Increased exported Gaussian and backdrop blur strength by 30% for closer visual matching with AE, consistently for static values and animation.
+
 ## 0.1.9
 
 - Added composition selection by folder with Select all, Clear selection, and bulk Add selected actions.
