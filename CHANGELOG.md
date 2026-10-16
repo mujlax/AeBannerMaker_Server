@@ -2,6 +2,12 @@
 
 ## Unreleased
 
+## 0.1.11
+
+- Added project and preview Width sharpness controls (0–200%, default 50%; explicit saved settings are preserved), using alpha-safe Unsharp Mask after actual downscaling for separate images and atlases across JS/CSS, adaptive and firmware exports; preview rebuilds reuse unsharpened pixels and publish matching ZIP snapshots.
+- Improved Width image sharpness with alpha-safe Lanczos3 resizing, lossless prepared pixels for JPG atlases and native-pixel atlas rendering without an extra fractional bitmap resize.
+- Compact atlas pages with a bounded MaxRects width search to avoid unnecessarily long strips and reduce empty space without changing JPEG quality or image resolution.
+
 ## 0.1.10
 
 - Added JPG atlases for opaque images and PNG atlases for transparent images across normal/adaptive exports, JS/CSS previews and firmware releases, preserving layer geometry, masks, effects and animation.
