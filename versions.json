@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "version": "0.1.12",
+      "date": "2026-10-19",
+      "changes": [
+        "Enable image atlases by default in Always mode with JPEG quality 75 for projects without saved settings; preserve explicit project and firmware overrides."
+      ],
+      "downloadUrl": "https://github.com/mujlax/AeBannerMaker_Server/releases/download/v0.1.12/AeBannerMaker_0.1.12.zip"
+    },
+    {
       "version": "0.1.11",
       "date": "2026-10-16",
       "changes": [

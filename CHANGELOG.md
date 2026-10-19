@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 0.1.12
+
+- Enable image atlases by default in Always mode with JPEG quality 75 for projects without saved settings; preserve explicit project and firmware overrides.
+
 ## 0.1.11
 
 - Added project and preview Width sharpness controls (0–200%, default 50%; explicit saved settings are preserved), using alpha-safe Unsharp Mask after actual downscaling for separate images and atlases across JS/CSS, adaptive and firmware exports; preview rebuilds reuse unsharpened pixels and publish matching ZIP snapshots.
