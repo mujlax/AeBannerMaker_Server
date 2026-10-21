@@ -2,6 +2,13 @@
 
 ## Unreleased
 
+## 0.1.13
+
+- Added a shared CONTROL_ADAPTIVE guide Null with composition-wide centering controls and independent width/height thresholds in adaptive JS and CSS exports; preserve controller settings when applying or clearing layer constraints.
+- Added Preserve Minimum Size, enabled by default, to keep adaptive Position and Scale calculations at or above the original banner dimensions independently on each axis.
+- Keep content visible beyond the centered banner edges once a centering threshold is reached, and restore clipping below the thresholds or when switching to a variant without centering.
+- Changed new layer constraint defaults to Scale Strength 0 and Max Scale 1.
+
 ## 0.1.12
 
 - Enable image atlases by default in Always mode with JPEG quality 75 for projects without saved settings; preserve explicit project and firmware overrides.
