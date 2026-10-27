@@ -2,6 +2,11 @@
 
 ## Unreleased
 
+## 0.1.14
+
+- Fixed text Track Matte references after automatic outline conversion so gradient shapes remain clipped to text, including disabled matte sources, shared sources, duplicate layer names, and changing layer indices.
+- Preserve even-odd letter holes in exported text matte contours while text and gradient layers animate independently.
+
 ## 0.1.13
 
 - Added a shared CONTROL_ADAPTIVE guide Null with composition-wide centering controls and independent width/height thresholds in adaptive JS and CSS exports; preserve controller settings when applying or clearing layer constraints.

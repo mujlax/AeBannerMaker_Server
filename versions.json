@@ -1,6 +1,15 @@
 {
   "versions": [
     {
+      "version": "0.1.14",
+      "date": "2026-10-27",
+      "changes": [
+        "Fixed text Track Matte references after automatic outline conversion so gradient shapes remain clipped to text, including disabled matte sources, shared sources, duplicate layer names, and changing layer indices.",
+        "Preserve even-odd letter holes in exported text matte contours while text and gradient layers animate independently."
+      ],
+      "downloadUrl": "https://github.com/mujlax/AeBannerMaker_Server/releases/download/v0.1.14/AeBannerMaker_0.1.14.zip"
+    },
+    {
       "version": "0.1.13",
       "date": "2026-10-21",
       "changes": [
