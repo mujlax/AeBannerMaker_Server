@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 0.1.15
+
+- Isolate Adaptive Frame players to their own variant layers so neighboring states cannot reset animated text matte positions or displace gradient clipping.
+
 ## 0.1.14
 
 - Fixed text Track Matte references after automatic outline conversion so gradient shapes remain clipped to text, including disabled matte sources, shared sources, duplicate layer names, and changing layer indices.
