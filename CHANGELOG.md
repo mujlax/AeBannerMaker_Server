@@ -2,6 +2,15 @@
 
 ## Unreleased
 
+## 0.1.16
+
+- Added compact Preview playback controls with pause, scrubbing, frame stepping, speed selection, keyboard shortcuts, and draggable A/B range handles with automatic repeat.
+- Preserve playback state between original/result revisions and adaptive variants, with optional inspection beyond Stop markers.
+- Added proportional Preview scaling from a corner handle outside the banner, with a zoom indicator, one-click reset, and scrolling for enlarged banners.
+- Apply Width resizing relative to the full source image so cropped regions retain the same scale; clarify Width tool help and cover cropped-image rendering.
+- Show per-stage firmware export progress and elapsed time, yield between targets to keep the panel responsive, and report the active stage on failure.
+- Bound TinyPNG requests with timeouts and handle interrupted responses while preserving original images on failure.
+
 ## 0.1.15
 
 - Isolate Adaptive Frame players to their own variant layers so neighboring states cannot reset animated text matte positions or displace gradient clipping.
