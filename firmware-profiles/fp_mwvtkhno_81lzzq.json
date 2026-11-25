@@ -1,0 +1,86 @@
+{
+  "id": "fp_mwvtkhno_81lzzq",
+  "name": "only_meta",
+  "platform": "meta",
+  "version": "2026-11-25 10:52",
+  "sizeGroups": [
+    {
+      "id": "sg_mwvtkhnq_55nuum",
+      "label": "Static sizes",
+      "sizeMode": "static",
+      "sizes": [
+        {
+          "width": 300,
+          "height": 250
+        }
+      ],
+      "widthFluidHeightsPx": [],
+      "heightFluidWidthsPx": [],
+      "clickWrapper": {
+        "openTag": "",
+        "closeTag": ""
+      },
+      "headHtml": "",
+      "bodyHtmlBeforeClose": "",
+      "validation": {},
+      "optimizeJsOnExport": true,
+      "optimizeImagesOnExport": true,
+      "imageAtlas": {
+        "mode": "inherit"
+      },
+      "inlineJsInHtml": false,
+      "inlineImagesInJs": false,
+      "inlineCssInHtml": false,
+      "clickFrameEnabled": false,
+      "borderEnabled": false,
+      "borderColor": "#dadada"
+    },
+    {
+      "id": "sg_mwvts0gn_1nsj7u",
+      "label": "Adapt sizes",
+      "sizeMode": "widthFluid",
+      "sizes": [
+        {
+          "width": 300,
+          "height": 250
+        }
+      ],
+      "widthFluidHeightsPx": [
+        250
+      ],
+      "heightFluidWidthsPx": [],
+      "clickWrapper": {
+        "openTag": "",
+        "closeTag": ""
+      },
+      "headHtml": "",
+      "bodyHtmlBeforeClose": "",
+      "validation": {},
+      "optimizeJsOnExport": false,
+      "optimizeImagesOnExport": false,
+      "imageAtlas": {
+        "mode": "inherit"
+      },
+      "inlineJsInHtml": false,
+      "inlineImagesInJs": false,
+      "inlineCssInHtml": false,
+      "clickFrameEnabled": false,
+      "borderEnabled": false,
+      "borderColor": "#000000"
+    }
+  ],
+  "createdAt": "2026-11-25T07:46:01.186Z",
+  "updatedAt": "2026-11-25T07:52:20.224Z",
+  "sync": {
+    "profileId": "fp_mwvtkhno_81lzzq",
+    "version": "2026.11.25-105238",
+    "history": [
+      {
+        "version": "2026.11.25-105238",
+        "action": "push",
+        "at": "2026-11-25T07:52:38.992Z",
+        "message": "Pushed to GitHub"
+      }
+    ]
+  }
+}
